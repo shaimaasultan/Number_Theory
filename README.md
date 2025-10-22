@@ -73,7 +73,7 @@ Feel free to open issues or submit pull requests if you have suggestions for opt
 
 ## Verfied using Gemini
 
-<img src="/image/Screenshot 2025-10-21 214848.png" />
+<img src="/image/Screenshot 2025-10-21 214858.png" />
 <img src="/image/Screenshot 2025-10-21 215304.png" />
 <img src ="/image/Screenshot 2025-10-21 215315.png"/>
 <img src="/image/Screenshot 2025-10-21 215419.png" />
