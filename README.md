@@ -71,6 +71,15 @@ This pattern highlights an explicit, deterministic link between the magnitude of
 
 Feel free to open issues or submit pull requests if you have suggestions for optimization or further analysis of the generated sequence.
 
+## Verfied using Gemini
+
+<img src="Screenshot 2025-10-21 214848.png" />
+<img src="Screenshot 2025-10-21 215304.png" />
+<img src ="Screenshot 2025-10-21 215315.png"/>
+<img src="Screenshot 2025-10-21 215419.png" />
+<img src="Screenshot 2025-10-21 215430.png" />
+<img src="Screenshot 2025-10-21 165901.png" />
+
 ***
 
 ## 📄 License
