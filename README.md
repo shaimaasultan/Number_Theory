@@ -18,14 +18,14 @@ The algorithm exhibits a fascinating and consistent pattern for **prime numbers*
 
 1.  Clone this repository:
     ```bash
-    git clone [YOUR_REPO_URL]
-    cd shosho-sequence-generator
+    git clone (https://github.com/shaimaasultan/Number_Theory)
+    cd Number_Theory
     ```
 2.  Run the function with a specified `limit`:
 
     ```python
     # Example usage in a Python environment or script
-    from shosho_generator import ShoSho  # Assuming your file is named shosho_generator.py
+    from Number_Theory import ShoSho  # Assuming your file is named Number_Theory.py
     limit = 40
     results = ShoSho(limit)
     print(results)
